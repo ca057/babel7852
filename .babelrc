@@ -1,4 +1,3 @@
 {
-  "plugins": [["module-resolver", { "root": ["./src"] }], "idx"],
   "presets": ["react-native"]
 }
